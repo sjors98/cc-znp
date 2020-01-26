@@ -36,7 +36,7 @@
   "dependencies": {
     "debug": "^2.6.9",
     "enum": "^2.5.0",
-    "serialport": "^6.2.2",
+    "serialport": "^8.0.6",
     "stream-browserify": "^2.0.1",
     "unpi": "^1.1.0"
   },
